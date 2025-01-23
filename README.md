@@ -1,11 +1,4 @@
-<style>
-  h1{
-    outline: red;
-  }
-</style>
-  <h1>
-    💻 Jace Hollenbach
-  </h1>
+# 💻 Jace Hollenbach
   
 **`College Student`**
 
