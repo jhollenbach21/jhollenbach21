@@ -6,6 +6,7 @@ I am a senior data science student with a passion for using data science for spo
 ---
 ### Skills 
 <img src=https://github.com/jhollenbach21/jhollenbach21/blob/75f637776a9bcbb9d0f7a546fa39d01c2152bc9f/4518857_python_icon.png width=60 height=60>
+<img src=https://github.com/jhollenbach21/jhollenbach21/blob/75f637776a9bcbb9d0f7a546fa39d01c2152bc9f/4518857_python_icon.png width=60 height=60>
 <!--
 **jhollenbach21/jhollenbach21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
