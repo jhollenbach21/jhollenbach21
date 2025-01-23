@@ -1,6 +1,6 @@
 <style>
   h1{
-    outline: 5px solid red;
+    outline: red;
   }
 </style>
   <h1>
