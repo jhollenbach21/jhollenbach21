@@ -11,6 +11,12 @@ I am a senior data science student with a passion for using data science for spo
 <img align="left" src=https://github.com/jhollenbach21/jhollenbach21/blob/76febe5b3a23cebfb36f69d69e548f638ad9819e/R_icon.png width=55 height=60>
 <img align="left" src=https://github.com/jhollenbach21/jhollenbach21/blob/9e7642df2190ef09dfa810f768a890f2eb332b4b/sql_icon1.png width=55 height=60>
 <img align="left" src=https://github.com/jhollenbach21/jhollenbach21/blob/6c97ab694c74d43b6743999c41694e188da297f3/Godot_icon.png width=55 height=60>
+
+---
+### Projects
+
+---
+### Goals
 <!--
 **jhollenbach21/jhollenbach21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
