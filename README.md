@@ -20,6 +20,7 @@ I am a senior data science student with a passion for using data science for spo
 ### Projects
 
 #### NBA Shot Chart Dashboard
+<br/>
 <a href="https://github.com/jhollenbach21/NBA-Shot-Chart/blob/main/README.md">
   <img width=500 height=320 alt="Screen Shot 2025-01-25 at 4 06 05 PM" src="https://github.com/user-attachments/assets/0d3d4146-420d-482c-bb72-dc8a78b0139d" />
 <a/>
