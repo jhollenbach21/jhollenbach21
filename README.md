@@ -18,14 +18,14 @@ I am a senior data science student with a passion for using data science for spo
 
 ---
 ### Projects
-
+(click on image to go to repository)
 #### NBA Shot Chart Dashboard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NFL Draft Position Predictor
 <br/>
 <a href="https://github.com/jhollenbach21/NBA-Shot-Chart/blob/main/README.md">
   <img width=500 height=320 alt="Screen Shot 2025-01-25 at 4 06 05 PM" src="https://github.com/user-attachments/assets/0d3d4146-420d-482c-bb72-dc8a78b0139d" />
 <a/>
-<a href="https://github.com/jhollenbach21/NBA-Shot-Chart/blob/main/README.md">
-  <img width=500 height=320 alt="Screen Shot 2025-01-25 at 4 06 05 PM" src="https://github.com/user-attachments/assets/0d3d4146-420d-482c-bb72-dc8a78b0139d" />
+<a href="=https://github.com/jhollenbach21/NFL_Draft_Position_Predictor/blob/main/README.md">
+  <img width=500 height=320 alt="Screen Shot 2025-01-25 at 4 45 37 PM" src="https://github.com/user-attachments/assets/7da4cf90-74ab-4de5-b6e2-512c474544e9" />
 <a/>
 
 ---
